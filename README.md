@@ -1,7 +1,8 @@
 # kgh9356-arch.github.io
 ### 국립금오공과대학교
 #### 소재디자인공학과
-![My Image](IMG_9469.jpg)
+
+![xaaaa](IMG_9469.jpg)
 
 # 학력
 2018 경주중학교 졸업
